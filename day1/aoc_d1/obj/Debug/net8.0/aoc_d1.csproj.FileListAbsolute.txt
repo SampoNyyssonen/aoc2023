@@ -1,0 +1,14 @@
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\bin\Debug\net8.0\aoc_d1.exe
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\bin\Debug\net8.0\aoc_d1.deps.json
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\bin\Debug\net8.0\aoc_d1.runtimeconfig.json
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\bin\Debug\net8.0\aoc_d1.dll
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\bin\Debug\net8.0\aoc_d1.pdb
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\obj\Debug\net8.0\aoc_d1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\obj\Debug\net8.0\aoc_d1.AssemblyInfoInputs.cache
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\obj\Debug\net8.0\aoc_d1.AssemblyInfo.cs
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\obj\Debug\net8.0\aoc_d1.csproj.CoreCompileInputs.cache
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\obj\Debug\net8.0\aoc_d1.dll
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\obj\Debug\net8.0\refint\aoc_d1.dll
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\obj\Debug\net8.0\aoc_d1.pdb
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\obj\Debug\net8.0\aoc_d1.genruntimeconfig.cache
+C:\Users\sampon\OneDrive - EID Robotics Oy\Pictures\omat\repot\day1\aoc_d1\obj\Debug\net8.0\ref\aoc_d1.dll
