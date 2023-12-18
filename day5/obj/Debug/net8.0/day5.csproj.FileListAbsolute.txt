@@ -1,0 +1,15 @@
+C:\repot\day5\obj\Debug\net8.0\day5.GeneratedMSBuildEditorConfig.editorconfig
+C:\repot\day5\obj\Debug\net8.0\day5.AssemblyInfoInputs.cache
+C:\repot\day5\obj\Debug\net8.0\day5.AssemblyInfo.cs
+C:\repot\day5\obj\Debug\net8.0\day5.csproj.CoreCompileInputs.cache
+C:\repot\day5\obj\Debug\net8.0\day5.sourcelink.json
+C:\repot\day5\bin\Debug\net8.0\day5.exe
+C:\repot\day5\bin\Debug\net8.0\day5.deps.json
+C:\repot\day5\bin\Debug\net8.0\day5.runtimeconfig.json
+C:\repot\day5\bin\Debug\net8.0\day5.dll
+C:\repot\day5\bin\Debug\net8.0\day5.pdb
+C:\repot\day5\obj\Debug\net8.0\day5.dll
+C:\repot\day5\obj\Debug\net8.0\refint\day5.dll
+C:\repot\day5\obj\Debug\net8.0\day5.pdb
+C:\repot\day5\obj\Debug\net8.0\day5.genruntimeconfig.cache
+C:\repot\day5\obj\Debug\net8.0\ref\day5.dll

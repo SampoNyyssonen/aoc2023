@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repot\\day4\\day4.csproj": {}
+    "C:\\repot\\day5\\day5.csproj": {}
   },
   "projects": {
-    "C:\\repot\\day4\\day4.csproj": {
+    "C:\\repot\\day5\\day5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repot\\day4\\day4.csproj",
-        "projectName": "day4",
-        "projectPath": "C:\\repot\\day4\\day4.csproj",
+        "projectUniqueName": "C:\\repot\\day5\\day5.csproj",
+        "projectName": "day5",
+        "projectPath": "C:\\repot\\day5\\day5.csproj",
         "packagesPath": "C:\\Users\\sampon\\.nuget\\packages\\",
-        "outputPath": "C:\\repot\\day4\\obj\\",
+        "outputPath": "C:\\repot\\day5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,9 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "default"
         }
       },
       "frameworks": {
